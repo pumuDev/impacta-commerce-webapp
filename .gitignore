@@ -137,7 +137,7 @@ env.bak/
 venv.bak/
 
 #pages backp
-pages/index(backp).js
+index_o.js
 
 # Spyder project settings
 .spyderproject
