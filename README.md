@@ -1,3 +1,3 @@
-## Projeto - eCommerce Impacta
+## Projeto Simples - eCommerce Impacta
 
-Projeto simples, com destinação de aprender a utilizar o framework React, funções básicas do Git, Github, Flask, NPM, NVM entre outros.
+Objetivo principal é fazer a integração do front-end com back-end, usando Python, Flask e Nextjs.
